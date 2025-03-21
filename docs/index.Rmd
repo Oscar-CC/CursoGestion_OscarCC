@@ -11,3 +11,31 @@ Esta es una prueba de un repositorio en GitHub.
 2+2
 ```
 
+
+Esta página esta diseñada al manejo de los datos
+[ Curso Gestión de datos] (https://www.hnbiology.org/)
+
+
+Mostrar gráfico
+```{r}
+data("cars")
+```
+
+```{r}
+plot(cars)
+```
+
+
+::: panel tabset
+# Clase 1
+# Clase 2
+
+:::
+
+
+
+
+
+
+
+
