@@ -1,0 +1,13 @@
+---
+title: "Clase10_GitHub"
+author: "Oscar Carmona Castro"
+date: "2025-03-21"
+output: html_document
+---
+
+Esta es una prueba de un repositorio en GitHub.
+
+```{r}
+2+2
+```
+
