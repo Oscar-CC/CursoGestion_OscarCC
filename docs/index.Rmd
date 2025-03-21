@@ -26,11 +26,11 @@ plot(cars)
 ```
 
 
-::: panel tabset
+:::-panel tabset
 # Clase 1
 # Clase 2
 
-:::
+
 
 
 
